@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52874" started-at="2021-03-18T18:19:47Z" finished-at="2021-03-18T18:20:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52874" started-at="2021-03-18T18:19:47Z" finished-at="2021-03-18T18:20:40Z">
+      <class name="com.fasal.tests.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.fasal.tests.TestClass@38082d64]" name="setUp" is-config="true" duration-ms="14176" started-at="2021-03-18T18:19:47Z" finished-at="2021-03-18T18:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginIsSuccessful()[pri:1, instance:com.fasal.tests.TestClass@38082d64]" name="verifyLoginIsSuccessful" duration-ms="8338" started-at="2021-03-18T18:20:02Z" finished-at="2021-03-18T18:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginIsSuccessful -->
+        <test-method status="PASS" signature="verifyUserIsAbleToApplyFiltersInWomenCategory()[pri:2, instance:com.fasal.tests.TestClass@38082d64]" name="verifyUserIsAbleToApplyFiltersInWomenCategory" duration-ms="8599" started-at="2021-03-18T18:20:10Z" finished-at="2021-03-18T18:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToApplyFiltersInWomenCategory -->
+        <test-method status="PASS" signature="verifyUserIsAbleToAddProductToCartAndProceedToCheckout()[pri:3, instance:com.fasal.tests.TestClass@38082d64]" name="verifyUserIsAbleToAddProductToCartAndProceedToCheckout" duration-ms="10959" started-at="2021-03-18T18:20:19Z" finished-at="2021-03-18T18:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToAddProductToCartAndProceedToCheckout -->
+        <test-method status="PASS" signature="verifyUserIsAbleToAgreeToTermsAndConditions()[pri:4, instance:com.fasal.tests.TestClass@38082d64]" name="verifyUserIsAbleToAgreeToTermsAndConditions" duration-ms="4301" started-at="2021-03-18T18:20:29Z" finished-at="2021-03-18T18:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToAgreeToTermsAndConditions -->
+        <test-method status="PASS" signature="verifyUserIsAbleToMakePayment()[pri:5, instance:com.fasal.tests.TestClass@38082d64]" name="verifyUserIsAbleToMakePayment" duration-ms="5741" started-at="2021-03-18T18:20:34Z" finished-at="2021-03-18T18:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToMakePayment -->
+        <test-method status="PASS" signature="validateOrderIsPlacedSuccessfully()[pri:6, instance:com.fasal.tests.TestClass@38082d64]" name="validateOrderIsPlacedSuccessfully" duration-ms="92" started-at="2021-03-18T18:20:40Z" finished-at="2021-03-18T18:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateOrderIsPlacedSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.fasal.tests.TestClass@38082d64]" name="tearDown" is-config="true" duration-ms="643" started-at="2021-03-18T18:20:40Z" finished-at="2021-03-18T18:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fasal.tests.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

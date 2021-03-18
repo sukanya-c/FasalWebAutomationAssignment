@@ -1,0 +1,8 @@
+com/fasal/pages/LoginPage.class
+com/fasal/tests/TestClass.class
+com/fasal/pages/CheckoutAndPaymentPage.class
+com/fasal/pages/HomePage.class
+com/fasal/utils/Constants.class
+com/fasal/utils/CommonMethods.class
+com/fasal/base/BaseClass.class
+com/fasal/pages/WomenCataloguePage.class
