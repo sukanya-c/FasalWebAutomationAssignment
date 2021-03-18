@@ -1,4 +1,4 @@
-# FASAL API AUTOMATION ASSIGNMENT
+# FASAL WEB AUTOMATION ASSIGNMENT
 
 
 ****************************************************************************
